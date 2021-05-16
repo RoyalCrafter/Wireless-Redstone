@@ -1,0 +1,6 @@
+name: WirelessRedstone
+version: ${project.version}
+main: de.royalcrafter.wirelessredstone.WirelessRedstone
+api-version: 1.16
+authors: [ Royal_Crafter63 ]
+description: Wireless Redstone for Minecraft
